@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: X2. Trap Them
+  m_EditorClassIdentifier: 
+  storyText: "They remain knocked out and trapped in the containment spell. When the
+    librarians come back they thank you for your quick thinking and award you with
+    a raise. You can see that the elder librarians see you in a different light now.
+    Your life as a novice will get better now that you've proven yourself. \n\nPlay
+    Again?\n1. Yes\n2. No"
+  nextStates:
+  - {fileID: 11400000, guid: fa715bf19e08dce4c9465db189f948e6, type: 2}
+  - {fileID: 11400000, guid: 474def058d3f98c40ad6520c32c14f73, type: 2}

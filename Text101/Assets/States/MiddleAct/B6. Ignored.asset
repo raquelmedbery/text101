@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: B6. Ignored
+  m_EditorClassIdentifier: 
+  storyText: "\"I was in a hurry so I didn't think to ask,\" they say then turn back
+    to the bookshelves. \r\n\r\n1. Insist that he leaves\r\n2. Ask if he needs help\r\n3.
+    Go back to work"
+  nextStates:
+  - {fileID: 11400000, guid: 05d03cc214ad5da49b829bf55109d10f, type: 2}
+  - {fileID: 11400000, guid: e213279b21e9f8f41820e50ce4defca4, type: 2}
+  - {fileID: 11400000, guid: 122557711f5e118438ecb245488d2549, type: 2}

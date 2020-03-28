@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: A3. Caught
+  m_EditorClassIdentifier: 
+  storyText: "You walk to the restricted area at the back of the library. As you get
+    closer the smell of the old books contained within the locked area assault your
+    senses. As you reach the restricted area you see through the iron bars of the
+    entrance an unnatural light illuminating a black cloaked figure within. You definitely
+    did not help this person earlier, so how did they get in? \r\n\r\n1. Continue "
+  nextStates:
+  - {fileID: 11400000, guid: 82ab42fba490c5b4281b5626a8c0b84d, type: 2}

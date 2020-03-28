@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C12. Proposal
+  m_EditorClassIdentifier: 
+  storyText: "\"I can teach you magic if you wish, unless you want to be stuck around
+    books for the rest of your life, squandering your gifts.\"\r\n\r\nI ponder on
+    his offer. It's tempting. It's true I never thought this calling was for me as
+    I do hate reading... \r\n\r\n1. Go with him\r\n2. Take the book for yourself\r\n3.
+    Trap him"
+  nextStates:
+  - {fileID: 11400000, guid: 9ef286eea5310854e8eb0e765f0f825c, type: 2}
+  - {fileID: 11400000, guid: 9b5ac4810f40b7441afd3aef0ae0b9f6, type: 2}
+  - {fileID: 11400000, guid: 128c6907261a0e845bd179b8dd576ae7, type: 2}

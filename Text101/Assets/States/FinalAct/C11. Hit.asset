@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C11. Hit
+  m_EditorClassIdentifier: 
+  storyText: "As he starts to scan the spines of the books in the new section you
+    grab a heavy tome from a nearby shelf and sneak up on him. Just as he's about
+    to pull out a book you whack him hard on the head and he falls unconscious to
+    the ground.  \r\n\r\nYou drag their heavy body over to the containment spell woven
+    into a rug farther in the restricted area. When you finish dragging the body onto
+    the rug you step out of the way as you watch a circle of blue glow on the ground
+    as it triggers. \r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: bc1a4e8c9614d0c4d88993aaee636226, type: 2}

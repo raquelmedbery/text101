@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C10. Trick
+  m_EditorClassIdentifier: 
+  storyText: "You smile warmly at him. \"The spell books are located ten cases down
+    and to your left,\" you say. \r\n\r\nThe man doesn't say anything as he turns
+    away and strides down the aisle, no longer paying attention to you.\r\n\r\nPerfect.
+    \r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: f10642dcdf52b834ebb3f385fadc960e, type: 2}

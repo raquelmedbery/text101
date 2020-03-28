@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C7. Missed
+  m_EditorClassIdentifier: 
+  storyText: "\"After such insolence that will no longer be the case, of course,\"
+    he says. \r\n\r\nYour shoulders drop in disappoint.\r\n\r\n\"Now chop chop! Where
+    can I find the spell books?\"\r\n\r\nYou glance around at where he was searching.
+    With anger simmering bellow your skin you say, \"Well obviously not here among
+    the diaries of dead people.\"\r\n\r\nHe glares at you.\r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: ac6a4c227e8353241ac0a56c8e360b3f, type: 2}

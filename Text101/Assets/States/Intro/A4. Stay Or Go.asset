@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: A4. Stay Or Go
+  m_EditorClassIdentifier: 
+  storyText: "You decide to go back to work. As you pick up the next book you see
+    a light go on in the restricted section. You know for sure that you let no one
+    in there. The few patrons that came in today were all students who were looking
+    for simple research books. Nothing that would require the restricted section.
+    You're a novice with vague ties to a family of librarians. There are already whispers
+    from the more traditional librarians of taking away your position. Should you
+    go check just in case?\r\n\r\n1. Go investigate\r\n2. Ignore and continue your
+    work"
+  nextStates:
+  - {fileID: 11400000, guid: 82ab42fba490c5b4281b5626a8c0b84d, type: 2}
+  - {fileID: 11400000, guid: 7eccce7cc78b5c64fbb9cad14a3c65b0, type: 2}

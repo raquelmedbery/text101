@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: B9. Refuse
+  m_EditorClassIdentifier: 
+  storyText: "\"Sorry, but I'll have to decline,\" you say. \r\n\r\n\"Want to think
+    about that one more time?\" he mutters darkly as his hand that isn't holding the
+    magic light flickers a deadly red color. \r\n\r\n1. Agree to help\r\n2. Refuse
+    the offer and insist he leaves again"
+  nextStates:
+  - {fileID: 11400000, guid: a887375ea3aa5064590b3364f10ea1f6, type: 2}
+  - {fileID: 11400000, guid: 05d03cc214ad5da49b829bf55109d10f, type: 2}

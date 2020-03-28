@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C3. Explanation3
+  m_EditorClassIdentifier: 
+  storyText: "As if sensing your awe the man nods his head with a smile.\r\n\r\n\"There
+    hasn't been anyone that strong in years because the nobles are too afraid. They
+    stay locked in their mansions as war, famine, and disease ruin the land. Now is
+    the time for someone to stand up and bring peace back to this world, and only
+    someone with all that power can do it! That person will be me, and the spells
+    in that book will help me achieve my goal.\"\r\n\r\nHe says all of this with a
+    crazed look in his eyes.\r\n\r\n1. Say you'll help him\r\n2. Call him insane "
+  nextStates:
+  - {fileID: 11400000, guid: 7a16ccbdcfbd23a4f8ab80b37a356b91, type: 2}
+  - {fileID: 11400000, guid: b60fcc4768a655146991bd05d2795eed, type: 2}

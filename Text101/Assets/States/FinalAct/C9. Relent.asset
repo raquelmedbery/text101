@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C9. Relent
+  m_EditorClassIdentifier: 
+  storyText: "Shoulders slumping in acceptance you guide him to the correct section.
+    He immediately spots the book he wants, a heavy, gold tome. \r\n\r\nWithout even
+    a thank you he disappears with no trace left of him but a few dark wisps disintegrating
+    where he was standing. \r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 35ad317d0a2a85b4a83fea6747b85b97, type: 2}

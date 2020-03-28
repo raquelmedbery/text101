@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: B1. Approach
+  m_EditorClassIdentifier: 
+  storyText: "\"Hello,\" you say.\r\n\r\nThe cloaked figure jumps and the light in
+    their hand flickers for a moment. As they turn around it steadies and you can
+    somewhat make out their features beneath the hood of their cloak. A dark eye,
+    one covered in an eye patch, and shoulder length brown hair. They don't respond.\r\n\r\n1.
+    Continue speaking\r\n2. Give up and leave them alone"
+  nextStates:
+  - {fileID: 11400000, guid: ee185a5f3d1e55447a4301127f6daaa8, type: 2}
+  - {fileID: 11400000, guid: 122557711f5e118438ecb245488d2549, type: 2}

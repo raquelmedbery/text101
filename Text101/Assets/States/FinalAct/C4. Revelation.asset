@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C4. Revelation
+  m_EditorClassIdentifier: 
+  storyText: "His eyes light up at my answer and a wide grin stretches across his
+    face. \"I'm impressed with how resourceful you've been, so I'll reward you. I
+    know you're like me, I can feel it. \r\n\r\n\"You're a bastard from a noble family,
+    just like me. Probably given to a librarian friend to raise as their own, and
+    that's why you're stuck living your life here. \"\r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: db7667cbe593d964ba649e9f4c2c9cfa, type: 2}

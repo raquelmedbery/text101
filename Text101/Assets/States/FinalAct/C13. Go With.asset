@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C13. Go With
+  m_EditorClassIdentifier: 
+  storyText: "\"Thank you so much for the opportunity. I would be honored to be your
+    apprentice,\" you gush. \"The spell books are this way.\" \r\n\r\nHe smiles in
+    satisfaction.\r\n\r\nYou lead him a few cases down. There he only needs to browse
+    the spines for a moment before finding what he's looking for, a thick, gold tome.
+    \r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: a634dde0b4bdefa4a99daeb7661b9088, type: 2}

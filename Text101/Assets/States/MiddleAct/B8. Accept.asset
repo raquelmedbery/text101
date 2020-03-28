@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: B8. Accept
+  m_EditorClassIdentifier: 
+  storyText: "\"Of course I'll keep your secret! Sounds like the most exciting proposal
+    I've had in a while. What is this book you're looking for?\"\r\n\r\nThe mysterious
+    man smirks, \"A book of spells.\"\r\n\r\nYou frown in confusion. This man is already
+    a magician, he should have been taught all he needed to know of spells as he grew
+    up. What need does he have for a book of spells?\r\n\r\nAs if sensing my confusion
+    the man explains...\r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 63d68c3807dc5934b89c8ad8621497cf, type: 2}

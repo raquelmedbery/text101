@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: X3. Game Over 2
+  m_EditorClassIdentifier: 
+  storyText: "Decision made you go back to sorting your books. After a few more minutes
+    of continuing your task the light you saw flares off and a strange dark ripple
+    emanates from the restricted area through the rest of the library.\r Slightly
+    worried, you remember the man has magic and decide to continue minding your own
+    business. \r\n\r\nWhen the senior librarians come back from their meeting they
+    head straight for the restricted area. You forgot they have a sixth sense for
+    trouble, and upon finding the cloaked figure passed out after triggering one of
+    their containment spells they punish you for your incompetence. Thrown to the
+    streets, you live the rest of your life as a beggar. \n\nPlay Again?\n1. Yes\n2.
+    No"
+  nextStates:
+  - {fileID: 11400000, guid: fa715bf19e08dce4c9465db189f948e6, type: 2}
+  - {fileID: 11400000, guid: 474def058d3f98c40ad6520c32c14f73, type: 2}

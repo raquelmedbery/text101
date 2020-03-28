@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C2. Explanation2
+  m_EditorClassIdentifier: 
+  storyText: "\"Each family is only as strong as it's specialty. But what if a magician
+    had access to every families abilities and more? They'd be strong enough to take
+    on anything!\"\r\n\r\nHis words, though as crazy as they sound, intrigue you.
+    You've never thought of that before. Magic is something you've tried to stay away
+    from most of your life, but being a master of all abilities would be amazing.\r\n\r\n1.
+    Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 7b65596cfcde717458bcb9258bca542e, type: 2}

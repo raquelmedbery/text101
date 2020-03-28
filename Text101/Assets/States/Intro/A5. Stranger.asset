@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: A5. Stranger
+  m_EditorClassIdentifier: 
+  storyText: "You unhook the ring of keys attached to your belt. Moving slowly so
+    they don't jingle too much you go to unlock the door. The figure doesn't pay you
+    any notice as they scan the shelves of books. As you creep up behind them quietly
+    you notice that the unnatural glow is coming from a ball of light levitating in
+    their hand. A magic user then, explains how they got into the locked area. They
+    still haven't noticed you.\r\n\r\n1. Approach and say hello\r\n2. Magic users
+    can be dangerous. Grab a book and knock them out."
+  nextStates:
+  - {fileID: 11400000, guid: 7ffc6dee4cdf9f74d94db88429d58363, type: 2}
+  - {fileID: 11400000, guid: 08c718068f633f04397e4e004d28688f, type: 2}

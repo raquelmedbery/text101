@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C1. Explanation
+  m_EditorClassIdentifier: 
+  storyText: "\"As you well know as a keeper of knowledge only nobles are born with
+    magic. These nobles are taught magic from birth, but each family is only as strong
+    as the knowledge available to them, and that's why each family has it's own specialty.
+    \r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 03b7dddc5ab6307409c53796068a8ecf, type: 2}

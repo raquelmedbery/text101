@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C14. Keep
+  m_EditorClassIdentifier: 
+  storyText: "If what that man said earlier is true why not take the book for yourself?
+    Get out of this boring life as a librarian. He doesn't seem to be sane enough
+    to have something that powerful anyway, and who knows if he'll actually help you.
+    \ \r\n\r\nThere are traps scattered around the restricted area for intruders.
+    If a librarian didn't place a seal of passage on a patron upon entering the restricted
+    area the traps will trigger. Even with his magic he shouldn't be able to detect
+    them. Maybe you can trick him in setting off one of the traps?\r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: f82fc9bf21d3e2b4183acdb9bb786131, type: 2}

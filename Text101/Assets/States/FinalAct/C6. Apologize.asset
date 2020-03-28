@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C6. Apologize
+  m_EditorClassIdentifier: 
+  storyText: "\"I'm sorry,\" you say. \"I know little about magic and I'm just surprised.\"\r\n\r\nHis
+    hand drops and he looks at you in distaste. The good mood he was slowly getting
+    into as he told his plan is long gone.\r\n\r\n\"Obviously, and to think I was
+    going to offer to teach you since you're much like me. \r\n\r\nYou jump in shock.
+    What does he mean?\r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 06170313cd5f8c44da0662f852222269, type: 2}

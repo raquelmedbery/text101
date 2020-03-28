@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: C16. Title
+  m_EditorClassIdentifier: 
+  storyText: "\"Thank you so much for the opportunity. I would be honored to be your
+    apprentice,\" you gush. \r\n\r\n\"What book specifically are you looking for?
+    I can better assist you if I knew the title and not just the general section it
+    might be in.\"\r\n\r\nHe radiates smugness as he says, \"See, resourceful. The
+    title is Spells for the Brave Hearted by Remolious Revangus.\"\r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: d5d9699a0cdc69f4fad994b6a5ddb1b8, type: 2}

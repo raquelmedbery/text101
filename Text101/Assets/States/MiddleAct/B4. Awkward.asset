@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534d4120918020f40b3d1d8650c5b11c, type: 3}
+  m_Name: B4. Awkward
+  m_EditorClassIdentifier: 
+  storyText: "You shuffle awkwardly in place as they continue to stare at you coldly.
+    You decide to continue speaking.\r\n\r\n\"Sorry to bother you, it's just I don't
+    remember giving you access to this area. People are forbidden from entering without
+    permission.\"\r\n\r\nYou cringe with how weak your voice sounds in the oppressive
+    space.\n\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: ee05e45a132d0e04e9915dac8d9bf517, type: 2}
